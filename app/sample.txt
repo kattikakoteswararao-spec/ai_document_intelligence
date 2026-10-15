@@ -1,0 +1,7 @@
+Employee Name: Ravi Kumar
+
+Department: Human Resources
+
+Document Type: Employee Record
+
+This document contains employee information and HR details.
